@@ -1,8 +1,7 @@
 # Introduction to Bash scripting Hallo
 
----
-
--
+1
+2
 
 Welcome to this Bash basics training guide! In this **bash crash course**, you will learn the **Bash basics** so you could start writing your own Bash scripts and automate your daily tasks.
 
